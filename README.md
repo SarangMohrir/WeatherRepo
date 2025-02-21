@@ -57,4 +57,3 @@ This is a fun little project using **HTML, CSS, JavaScript, and a Weather API**.
 
 ---
 
-This README makes it more engaging and easy to understand. Let me know if you'd like any tweaks! 😊
